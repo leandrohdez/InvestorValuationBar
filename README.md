@@ -1,5 +1,7 @@
 # ValuationBar — Documentación técnica
 
+[
+](https://substackcdn.com/image/fetch/$s_!8Xa5!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5897b7f-2453-4be9-a410-7b7e5a34e952_3051x1908.png)
 ## 1. Descripción
 
 `ValuationBar` es un componente React que visualiza la relación entre un precio actual (`currentValue`) y un valor justo (`fairValue`) sobre una barra segmentada en tres zonas:
