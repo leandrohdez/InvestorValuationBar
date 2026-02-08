@@ -1,5 +1,7 @@
 # ValuationBar — Documentación técnica
 
+![Valuation Bar Examples](Examples.png)
+
 
 ## 1. Descripción
 
