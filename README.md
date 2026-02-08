@@ -1,7 +1,5 @@
 # ValuationBar — Documentación técnica
 
-https://substackcdn.com/image/fetch/$s_!u93C!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba1c196b-8877-4897-8bc8-977a6741c191_2256x2126.png
-
 
 ## 1. Descripción
 
