@@ -1,4 +1,4 @@
-# ValuationBar — Documentación técnica
+# ValuationBar
 
 ![Valuation Bar Examples](Examples.png)
 
